@@ -1,0 +1,23 @@
+{
+  "name": "lightclass",
+  "version": "0.0.1",
+  "description": "platform of teaching and learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xinnix/lightclass.git"
+  },
+    "engines": {
+    "node": "0.12.x",
+    "npm": "2.1.x"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xinnix/lightclass/issues"
+  },
+  "homepage": "https://github.com/xinnix/lightclass"
+}
